@@ -1,5 +1,1 @@
-FuzzyLiteProject\Debug
-FuzzyLiteProject\Release
-
-.vs
-
+!*.dll
